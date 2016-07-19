@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a http://media.bizwebmedia.net/sites/139302/upload/Logo/201672185939117.jpg?v=175' width='500px'/>Túi xách, Giày dép caigicungre.com.vn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a http://media.bizwebmedia.net/sites/139302/upload/Logo/201672185939117.jpg?v=175' width='500px'/>SỨC KHỎE VÀ SỨC ĐẸP youcare.vn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
