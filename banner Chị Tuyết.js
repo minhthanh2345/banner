@@ -1,5 +1,5 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//please contact me http://myphamhanquocchinhhangbinhduong.blogspot.com/
+//website http://myphamhanquocchinhhangbinhduong.blogspot.com/ or http://myphamhanquocchinhhangbinhduong.blogspot.com/
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://1.bp.blogspot.com/-xf3cNVex8g4/V66zmAhGZSI/AAAAAAAAAT0/ncRp6cDVbMEhkoLv1Al2ihP4NRR19ssUQCLcB/s1600/logo%2Bmy%2Bpham.jpg?v=175' width='500px'/>Túi xách, Giày dép caigicungre.com.vn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://1.bp.blogspot.com/-xf3cNVex8g4/V66zmAhGZSI/AAAAAAAAAT0/ncRp6cDVbMEhkoLv1Al2ihP4NRR19ssUQCLcB/s1600/logo%2Bmy%2Bpham.jpg?v=175' width='500px'/>Mỹ Phẩm Chính Hãng. Liên hệ 0948035839. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
