@@ -1,6 +1,5 @@
 //please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
-
+//website http://caigicungre.com.vn/vn or http://caigicungre.com.vn/
 (function($) {
     $.fn.linhnguyen = function(options) {        
         var defaults = {  
@@ -117,7 +116,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a https://1.bp.blogspot.com/-xf3cNVex8g4/V66zmAhGZSI/AAAAAAAAAT0/ncRp6cDVbMEhkoLv1Al2ihP4NRR19ssUQCLcB/s1600/logo%2Bmy%2Bpham.jpg?v=175' width='500px'/>SỨC KHỎE VÀ SỨC ĐẸP youcare.vn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a https://1.bp.blogspot.com/-xf3cNVex8g4/V66zmAhGZSI/AAAAAAAAAT0/ncRp6cDVbMEhkoLv1Al2ihP4NRR19ssUQCLcB/s1600/logo%2Bmy%2Bpham.jpg?v=175' width='500px'/>Mỹ Phẩm Chính Hãng, Liên Hệ 0948035839. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
